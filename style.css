@@ -69,6 +69,13 @@ body {
     color: white;
 }
 
+.rating2 {
+    display: inline-block;
+    background-color: crimson;
+    padding: 10px 20px;
+    color: white;
+}
+
 .follow {
     color: crimson;
 }
